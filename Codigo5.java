@@ -2,7 +2,7 @@ import java.util.Scanner; // Se importa la clase Scanner.
 
 public class Codigo5 {
 
-	// Se utiliza el método nextLine() de Scanner
+	// Se agrego System.in
 	    Scanner s = new Scanner(System.in);
 	    System.out.print("Introduzca un número: ');
 	    String ni = s.nextLine();
